@@ -1,0 +1,15 @@
+{
+    "name": "asligresik/opensid-gammu",
+    "description": "replace default gammu, data supply from other resource",
+    "type": "project",
+    "require": {
+        "catfan/medoo": "^2.1"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ahmad",
+            "email": "ahmad.afandi85@gmail.com"
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+{"message":"\/lapor gan","sender":"6282333808291@s.whatsapp.net"}
+{"message":"ada kejadian penting","sender":"6282333808291@s.whatsapp.net"}
+{"message":"\ud83d\udc46\ud83c\udffbmau tanya ust. Hukumnya gima bila pemilik rmh jika solat di rmh","sender":"6285745938168-1441642841@g.us"}
+null
+null
+{"message":"\/laporgan","sender":"6282333808291@s.whatsapp.net"}
+{"message":"laporan kedua","sender":"6282333808291@s.whatsapp.net"}
+{"message":"kita kirim lagi","sender":"6282333808291@s.whatsapp.net"}
+{"message":"percobaan kirim ke opensid","sender":"6282333808291@s.whatsapp.net"}
