@@ -4,8 +4,8 @@ require_once 'config.php';
 function sendMessage($sender, $message)
 {
     $replyMessage = rawurlencode($message);
-    $url = URL_WHATSAPP."/sendtext/to/{$sender}/message/{$replyMessage}";
-
+    $url = URL_WHATSAPP."/sendtext/?number=".NUMBER_WHATSAPP."&to={$sender}&message={$replyMessage}";
+    
     $header = [
         'X-Requested-With: XMLHttpRequest',
         'User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.84 Safari/537.36',
